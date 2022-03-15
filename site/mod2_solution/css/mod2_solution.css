@@ -30,8 +30,10 @@ h1 {
     width: 100%;
 }
 
-/**large screen devices **/
-@media (min-width:1200px) {
+
+
+/**desktop**/
+@media (min-width:992px) {
 
     .col-lg-1,
     .col-lg-2,
@@ -98,8 +100,9 @@ h1 {
     }
 }
 
-/********** Medium devices only **********/
-@media (min-width: 950px) and (max-width: 1199px) {
+
+/********** Tablet **********/
+@media (min-width: 768px) and (max-width: 991px) {
 
     .col-md-1,
     .col-md-2,
