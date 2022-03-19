@@ -16,13 +16,10 @@
     background-color: lightblue;
 }
 
-li {
-    color: rgb(128, 0, 255);
-    font-style: italic;
-}
-
 h1 {
     margin-bottom: 10 px;
+    text-align: center;
+    font-family: sans-serif;
 }
 
 
@@ -48,7 +45,6 @@ h1 {
     .col-lg-11,
     .col-lg-12 {
         float: left;
-        border: 1px solid green;
     }
 
     .col-lg-1 {
