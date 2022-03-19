@@ -10,7 +10,7 @@
 
 6. ~~You are NOT allowed to use any CSS (or Javascript) framework for this assignment, including Twitter Bootstrap CSS Framework. No framework CSS files should even be referenced in your index.html, even if you are not using them. **However, you MAY use the simple responsive framework we developed in Lecture 24 as a starting point for this assignment.**~~
 
-7. You must implement the following breakpoints that will be considered desktop, tablet, and mobile. The browser should display a desktop version of the site when the width of the browser window is **992px and above**. Tablet view should appear only if the width of the browser window is **between 768px and 991px**, inclusively. Mobile view should appear only if the width of the browser is **equal to or less than 767px**.
+7. ~~You must implement the following breakpoints that will be considered desktop, tablet, and mobile. The browser should display a desktop version of the site when the width of the browser window is **992px and above**. Tablet view should appear only if the width of the browser window is **between 768px and 991px**, inclusively. Mobile view should appear only if the width of the browser is **equal to or less than 767px**.~~
 
 8. Your site is very simple. It consists of a page heading and 3 sections (all in one row in the desktop view). Each section contains some text. You can make it dummy text/"lorem ipsum", it doesn't matter. How the sections are laid out on the screen depends on the width of the browser window. (_Hint: use media queries discussed in Lecture 23._)
 
