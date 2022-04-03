@@ -1,0 +1,11 @@
+.navbar {
+    background-color: gray;
+    border: 2px solid;
+    border-radius: 0%;
+    height: 120px;
+}
+
+.navbar-header .navbar-brand h1 {
+    text-align: left;
+    color: black;
+}
